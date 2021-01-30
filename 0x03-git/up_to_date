@@ -1,3 +1,6 @@
 git init
 git clone https://github.com/BeniyamL/alx-zero_day
 git push origin master
+git pull
+git add
+got commit
