@@ -1,0 +1,1 @@
+this folder contains exerices for emacs commands
